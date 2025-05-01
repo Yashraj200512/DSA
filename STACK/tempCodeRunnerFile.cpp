@@ -1,0 +1,1 @@
+std::cout <<arr[0];

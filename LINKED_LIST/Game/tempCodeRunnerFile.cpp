@@ -1,0 +1,1 @@
+ char grid[GRID_SIZE + 2][GRID_SIZE + 2];
